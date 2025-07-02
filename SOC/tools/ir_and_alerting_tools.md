@@ -55,6 +55,9 @@
 - Useful to correlate system health issues with security events  
 - Alert routing to Slack, Opsgenie, email  
 
+🔗 [https://prometheus.io/](https://prometheus.io/)
+🔗 [https://www.zabbix.com/](https://www.zabbix.com/)
+
 ---
 
 ### 5. **PagerDuty / Mattermost / Email Integrations**
@@ -82,7 +85,7 @@ Escalation or resolution documented
 
 ---
 
-## 🧠 Tips for Startups
+## 🧠 Tips for SMEs
 
 - Start small — monitor alert volume and adjust thresholds  
 - Don’t triage alerts in email inboxes — use a case management tool  
