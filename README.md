@@ -1,8 +1,8 @@
 # 🛡️ Startup Security Readiness Kit (MVS Kit)
 
-The **Startup Security Readiness Kit (MVS Kit)** is a lean, practical toolkit designed to help early-stage startups build foundational security processes using open-source tools and documented best practices — without relying on expensive MSSPs.
+The **Startup Security Readiness Kit (MVS Kit)** is a lean, practical toolkit designed to help early-stage startups build foundational security processes using open-source tools and documented best practices without fat cybersecurity budgets.
 
-This kit supports FinTechs, SaaS, Healthcare, and other growing teams who need to demonstrate readiness for compliance, SOC maturity, and secure operations from day one.
+This kit supports FinTechs, SaaS, Healthcare, and other growing teams who need to demonstrate readiness for compliance, security maturity, and secure operations from day one.
 
 ---
 
