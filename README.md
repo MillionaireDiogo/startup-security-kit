@@ -39,13 +39,21 @@ This kit supports FinTechs, SaaS, Healthcare, and other growing teams who need t
 
 ---
 
-## 📌 How to Use This Kit
 
-1. **Start with Policies**: Customize `Policies/` to match your business and regulatory needs.  
-2. **Review SOC Folder**: Use `SOC/` for building detection, response, and monitoring capabilities using open-source tools.  
-3. **Track Assets**: Fill in `Inventories/` for visibility into infrastructure and vendors.  
-4. **Train Teams**: Share materials in `SOC/training/` to boost awareness and preparedness.  
-5. **Run Exercises**: Practice tabletop and phishing simulations quarterly.  
+## ⚙️ How to Use
+
+1. **Browse folders**: The kit is organized into clearly labeled folders (e.g., `/policies`, `/SOC`, `/inventories`, `etc`)
+2. **Pick what fits**: You don’t need to use everything. Some parts may be heavier than what your startup needs today.
+3. **Start small, scale wisely**: Use what aligns with your current stage and maturity — then grow into other areas as you scale.
+
+> 🔍 **Note**: The toolkit is intentionally broad to accommodate different startup types and security maturity levels. You are encouraged to browse through the folders and adapt what is most relevant to your context and capability.
+
+---
+
+## 🔗 Live Docs and Site
+
+- 📖 [View in Notion](https://wholesale-lupin-f1d.notion.site/Startup-Security-Readiness-Kit-MVS-Kit-220fb433bb568054bdecfd650f5fd212)
+- 🌐 [Live GitHub Pages Site](https://millionairediogo.github.io/startup-security-kit-site/)
 
 ---
 
