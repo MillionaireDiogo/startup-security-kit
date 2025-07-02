@@ -99,12 +99,12 @@ In case of suspected or confirmed data breach:
 
 ---
 
-## 📝 References
+## 📝 C
 
-- GDPR (General Data Protection Regulation)
-- NDPR (Nigeria Data Protection Regulation)
-- PCI-DSS (Payment Card Industry Data Security Standard)
-- ISO/IEC 27001 – Information Security Standard
+- GDPR (General Data Protection Regulation). See more: https://gdpr-info.eu/
+- NDPR (Nigeria Data Protection Regulation). See more: https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf
+- PCI-DSS (Payment Card Industry Data Security Standard). See more: https://listings.pcisecuritystandards.org/pdfs/pci_fs_data_storage.pdf
+- ISO/IEC 27001 – Information Security Standard: See more: https://www.iso.org/standard/27001
 
 ---
 
