@@ -99,7 +99,7 @@ In case of suspected or confirmed data breach:
 
 ---
 
-## 📝 C
+## 📝 References
 
 - GDPR (General Data Protection Regulation). See more: https://gdpr-info.eu/
 - NDPR (Nigeria Data Protection Regulation). See more: https://nitda.gov.ng/wp-content/uploads/2021/01/NDPR-Implementation-Framework.pdf
