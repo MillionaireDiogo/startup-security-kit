@@ -37,7 +37,7 @@
 
 ---
 
-### 3. **OSQuery + Fleet**
+### 3. **OSQuery + FleetDM**
 - Query endpoints like a database (SQL-like syntax)
 - Great for live endpoint monitoring
 - Combine with FleetDM for centralized management
