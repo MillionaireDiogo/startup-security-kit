@@ -67,7 +67,7 @@
 
 ---
 
-## ⚙️ Startup Implementation Tips
+## ⚙️ Implementation Tips
 
 - Deploy Zeek or Suricata at network chokepoints (e.g., gateway)  
 - Use TAPs or SPAN ports on switches for passive monitoring  
@@ -79,9 +79,9 @@
 
 ## 📚 Related Reading
 
-- Understanding DNS Tunneling and Detection Techniques  
-- Configuring Suricata Rules for Common Threats  
-- Network Baseline Establishment with Zeek Logs  
+- Understanding DNS Tunneling and Detection Techniques (https://www.sidnlabs.nl/en/news-and-blogs/detection-analysis-and-measurement-of-dns-tunnelling-techniques) 
+- Configuring Suricata Rules for Common Threats  (https://insanecyber.com/writing-suricata-rules-understanding-the-basic-rule-format/)
+- Network Baseline Establishment with Zeek Logs  (https://old.zeek.org/zeekweek2019/slides/baseline_with_zeek.pdf)
 
 ---
 
