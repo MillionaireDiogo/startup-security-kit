@@ -30,33 +30,6 @@ This kit supports FinTechs, SaaS, Healthcare, and other growing teams who need t
 
 ---
 
-## 🗂️ Folder Structure
-Startup-MVS-Kit/
-├── Inventories/
-│ ├── asset-inventory.xlsx
-│ ├── vendor-inventory.xlsx
-├── policies/
-│ ├── acceptable-use.md
-│ ├── data-handling.md
-│ ├── incident-response.md
-│ ├── password-policy.md
-│ ├── vendor-policy.md
-├── SOC/
-│ ├── architecture/
-│ ├── compliance/
-│ ├── enhancements/
-│ ├── operations/
-│ ├── setup_guides/
-│ ├── templates/
-│ ├── tools/
-│ └── training/
-├── LICENSE
-├── readiness-checklist.md
-├── README.md
-
-
----
-
 ## 🚀 Who Is This For?
 
 - **Startup Founders & CTOs** who want to embed security early
