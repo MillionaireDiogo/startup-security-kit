@@ -1,4 +1,4 @@
-# 🛡️ Startup Security Readiness Kit (MVS Kit)
+# Startup Security Readiness Kit (MVS Kit)
 
 Startups and SMEs often lack structured security processes due to limited budgets and expertise, leaving them exposed to preventable risks.
 
@@ -8,9 +8,9 @@ This kit supports FinTechs, SaaS, Healthcare, and other growing teams who need t
 
 ---
 
-## 📦 What's Inside?
+##  What's Inside?
 
-### ✅ Core Components
+### Core Components
 
 - **Security Policies**  
   Templates for acceptable use, password policies, vendor onboarding, data handling, and more.
@@ -32,7 +32,7 @@ This kit supports FinTechs, SaaS, Healthcare, and other growing teams who need t
 
 ---
 
-## 🚀 Who Is This For?
+## Who Is This For?
 
 - **Startup Founders & CTOs** who want to embed security early
 - **Security Engineers & Analysts** setting up lean SOC operations
@@ -42,24 +42,23 @@ This kit supports FinTechs, SaaS, Healthcare, and other growing teams who need t
 ---
 
 
-## ⚙️ How to Use
+## How to Use
 
 1. **Browse folders**: The kit is organized into clearly labeled folders (e.g., `/policies`, `/SOC`, `/inventories`, `etc`)
 2. **Pick what fits**: You don’t need to use everything. Some parts may be heavier than what your startup needs today.
 3. **Start small, scale wisely**: Use what aligns with your current stage and maturity — then grow into other areas as you scale.
 
-> 🔍 **Note**: The toolkit is intentionally broad to accommodate different startup types and security maturity levels. You are encouraged to browse through the folders and adapt what is most relevant to your context and capability.
+> **Note**: The toolkit is intentionally broad to accommodate different startup types and security maturity levels. You are encouraged to browse through the folders and adapt what is most relevant to your context and capability.
 
 ---
 
-## 🔗 Live Docs and Site
+## 🔗 Live Site
 
-- 📖 [View in Notion](https://wholesale-lupin-f1d.notion.site/Startup-Security-Readiness-Kit-MVS-Kit-220fb433bb568054bdecfd650f5fd212)
-- 🌐 [Live GitHub Pages Site](https://millionairediogo.github.io/startup-security-kit-site/)
+- [Live GitHub Pages Site](https://millionairediogo.github.io/startup-security-kit-site/)
 
 ---
 
-## ✅ Compliance Frameworks Referenced
+## Compliance Frameworks Referenced
 
 This kit maps loosely to:
 - **ISO/IEC 27001**
@@ -70,17 +69,17 @@ This kit maps loosely to:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome issues, pull requests, and improvements. Please ensure suggestions are vendor-neutral and practical for lean startups.
 
 ---
 
-## 📬 Contact
+## Contact
 
 If you have questions, ideas, or want to collaborate, feel free to reach out:
 
-**Angela Chidiogo Aniekwe**  
+** Diogo Aniekwe**  
 📧 Email: [millionairediog@gmail.com]
 
 
